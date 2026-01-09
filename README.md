@@ -1,0 +1,9 @@
+**Overview**
+
+Spaceware: 
+Enhancing Space Situational Awareness presents a comprehensive, data-driven view of the rapidly growing population of objects orbiting Earth. The visualization illustrates how human activity in space has expanded dramatically since the launch of Sputnik 1 in 1957, resulting in an increasingly congested orbital environment.
+At the center, concentric orbital rings depict the distribution of space objects around Earth, highlighting how debris, rocket bodies, and payloads cluster within specific orbital zones rather than being evenly dispersed. This concentration underscores the heightened collision risk in commonly used orbits, particularly as launch activity accelerates.
+Complementing this spatial view, the dashboard breaks down global contributions to space objects by country, revealing the dominant role played by a small number of spacefaring nations. The bubble chart emphasizes disparities in contribution levels, reflecting historical launch activity, defense programs, and commercial expansion.
+Temporal trends further reinforce the scale of the challenge. The growth over time chart shows sharp increases in orbiting objects during key periods, with a pronounced surge in recent years driven by satellite constellations and increased launch frequency. Additional visuals detailing orbital distances and mean anomaly provide insight into how objects are distributed across space and how their motion varies over time.
+Together, these views transform complex orbital data into an accessible narrative, emphasizing the urgency of space situational awareness. Spaceware highlights not only where space objects are and who is contributing to them, but also why coordinated monitoring, policy, and mitigation efforts are essential to ensure a safe, sustainable, and accessible space environment for the future.
+
